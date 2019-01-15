@@ -1,6 +1,6 @@
 {
   "name": "hey-global",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "global.js, global, js",
   "main": "./build/global.js",
   "repository": {

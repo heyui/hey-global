@@ -3,7 +3,7 @@ module.exports = {
   webpack: {
     umd: {
       entry: "./global.js",
-      library: "Global",
+      library: "G",
       filename: 'global.js'
     }
   }
